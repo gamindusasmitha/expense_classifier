@@ -3,4 +3,9 @@ uvicorn
 joblib
 scikit-learn
 pandas
+numpy
+pillow
 python-multipart
+slowapi
+opencv-python-headless
+easyocr
